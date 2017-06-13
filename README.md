@@ -11,7 +11,7 @@ Please cite the paper if you use the codes.
 * bash terminal
 
 # Setup
-
+* Uncompress data folder: `tar -zxvf data.tar.gz`
 * Create a python virtual environment: `virtualenv env`
 * Activate virtual environment: `. env/bin/activate`
 * Install python modules: `pip install -r python_modules.txt`
