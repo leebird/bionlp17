@@ -2,7 +2,16 @@
 
 Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction
 
-Please cite the paper if you use the codes.
+Please cite the paper if you use the codes:
+<pre>
+@ARTICLE{Li2017-zu,
+title   = "Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction",
+author  = "Li, Gang and Wu, Cathy H and Vijay-Shanker, K",
+journal = "BioNLP 2017",
+pages   = "184",
+year    =  2017
+}
+</pre>
 
 
 # Requirements
