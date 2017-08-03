@@ -4,12 +4,14 @@ Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction
 
 Please cite the paper if you use the codes:
 <pre>
-@ARTICLE{Li2017-zu,
-title   = "Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction",
-author  = "Li, Gang and Wu, Cathy H and Vijay-Shanker, K",
-journal = "BioNLP 2017",
-pages   = "184",
-year    =  2017
+@INPROCEEDINGS{Li2017-zu,
+  title           = "Noise Reduction Methods for Distantly Supervised
+                     Biomedical Relation Extraction",
+  booktitle       = "Proceedings of the {BioNLP} 2017 workshop",
+  author          = "Li, Gang and Wu, Cathy H and Vijay-Shanker, K",
+  pages           = "184--193",
+  year            =  2017,
+  conference      = "BioNLP 2017"
 }
 </pre>
 
