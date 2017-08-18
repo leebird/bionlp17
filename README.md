@@ -1,6 +1,6 @@
 # Paper
 
-Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction
+[Noise Reduction Methods for Distantly Supervised Biomedical Relation Extraction](http://aclweb.org/anthology/W17-2323)
 
 Please cite the paper if you use the codes:
 <pre>
